@@ -1,3 +1,5 @@
+<img src="foto.jpg" alt="Claudia Ausique" width="150" style="border-radius:  50%;">
+
 # ¡Hola! Soy Claudia Johanna Ausique Sáenz 
 
 ### **Analista de Datos | Tecnóloga en ADSI**
